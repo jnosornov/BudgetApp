@@ -1,0 +1,3 @@
+## CALCULATE THE BUDGET
+
+This is an application developed during a javascript course I made. The porpuse of the application is to calculate the user's budget based on the incomes and expenses he/she has made during the current month. The user can add or delete incomes and expenses as he/she wishes. Also, the application includes the percentages represented by the expenses compared to the total income. I have some ideas to enhance this project functionalities and add new features , but this might not be in the near future. So enough chit chat, just go [Calculate the budget](https://jnosornov.github.io/BudgetApp/) and see whether you are spending too much money or not.
